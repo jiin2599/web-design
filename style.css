@@ -1,0 +1,78 @@
+header {
+width: 1000px;
+margin-right: auto;
+margin-left: auto;
+background-color: #ffffff;
+padding: 20px;
+ overflow: hidden;
+}
+header nav {
+padding-top: 80px;
+width: 400px;
+float:right;
+}
+nav ul{
+list-style-type:none;
+}
+nav ul li{
+display: inline;
+float: left;
+ margin:15px;
+}
+nav ul li a{
+color:#9a9999;
+text-decoration:none;
+font-family: 맑은고딕;
+}
+#logo{
+    width: 300px;
+}
+section{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #e6e6e6;
+    padding: 0px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#bean{
+    align-content: center;
+    width: 900px;
+    margin-left: 50px;
+    padding-top: 30px;
+    
+}
+h1{
+    font-family: 맑은고딕;
+    font-size: 15px;
+    color: #676a6a;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 50px;
+    
+}
+footer{
+width: 1000px;
+margin-right: auto;
+margin-left: auto;
+margin-top:0;
+background-color: #b5b5b5;
+color:white;
+text-align:center;
+padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    font-family: 맑은고딕;
+    font-size: 20px;
+    color: #676a6a;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 50px;
+    
+}
+iframe{
+    padding: 30px;
+    margin-left: 50px;
+}
